@@ -54,7 +54,7 @@ for i in range(0,len(l1)):
 print(l2)
 
 #Reading the training .csv file
-df=pd.read_csv("training.csv")
+df=pd.read_csv("./Data/training.csv")
 
 #Replace the values in the imported file by pandas by the inbuilt function replace in pandas.
 
@@ -119,7 +119,7 @@ print(X)
 print(y)
 
 #Reading the  testing.csv file
-tr=pd.read_csv("testing.csv")
+tr=pd.read_csv("./Data/testing.csv")
 
 #Using inbuilt function replace in pandas for replacing the values
 
