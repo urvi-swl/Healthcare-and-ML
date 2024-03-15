@@ -25,7 +25,7 @@ With the evolving landscape of health information seeking behavior globally, the
 ### Database
 - The project utilizes an SQLite database named `database.db`, comprising four tables showcasing the results of four different algorithms. User results are stored along with their names for future preferences.
 
-![](https://github.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-sudhanshu/blob/master/Database/db1.jpeg)
+![]([https://github.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-sudhanshu/blob/master/Database/db1.jpeg](https://github.com/urvi-swl/Healthcare-and-ML/blob/main/Database/DB_photo.png)
 
 ### `GUI.py`
 - This file is responsible for creating the graphical user interface (GUI) of the system. Utilizing Tkinter, it provides a user-friendly interface where users can input disease symptoms and receive disease predictions through various algorithms.
