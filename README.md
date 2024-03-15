@@ -1,7 +1,7 @@
-# Disease Prediction using Machine Learning
+# Machine Learning-based Disease Forecasting
 
 ## Introduction
-With the evolving landscape of health information seeking behavior globally, there's a growing demand for online resources that provide insights into diseases, diagnoses, and treatments. Creating a recommendation system tailored for medical professionals and patients alike, utilizing review mining, can significantly save time and improve decision-making processes. However, understanding the vast and often complex medical vocabulary poses a challenge for users, particularly laymen. Hence, there's a need for a system that adapts to the unique requirements of the health domain users.
+With the evolving landscape of health information-seeking behavior globally, there's a growing demand for online resources that provide insights into diseases, diagnoses, and treatments. Creating a recommendation system tailored for medical professionals and patients alike, utilizing review mining, can significantly save time and improve decision-making processes. However, understanding the vast and often complex medical vocabulary poses a challenge for users, particularly laymen. Hence, there's a need for a system that adapts to the unique requirements of the health domain users.
 
 ## Files Overview
 
